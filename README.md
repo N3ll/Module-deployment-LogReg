@@ -15,4 +15,4 @@ The unlabeled data with predicted labels - **Absenteeism_predictions.csv**
 
 Python 3
 
-*Written as the final assignment in the course  [The Data Science Course 2019: Complete Data Science Bootcamp](https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp/)*
+*Written as the final assignment in the course  [The Data Science Course 2019: Complete Data Science Bootcamp](https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp/){:rel="follow"}*
